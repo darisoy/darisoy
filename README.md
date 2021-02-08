@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- Check out my [personal website](https://dorukarisoy.com/)
+- Hit me up on [linkedin](https://www.linkedin.com/in/darisoy/)
 <!--
 **darisoy/darisoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
