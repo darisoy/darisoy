@@ -8,6 +8,12 @@ Unfortunately most of my repo's are private. If you'd like to know more, please 
 - Hit me up on [LinkedIn](https://www.linkedin.com/in/darisoy/)!
 - DM me on [Insta](https://www.instagram.com/dorukarisoy/)!
 
+## 🔭 Interests
+- Computer Vision
+- Natural Language Processing
+- Statistical Learning/Machine Learning
+- Database Management Systems
+
 ## ⚡ Soon to be a Noogler! 
 <!--
 **darisoy/darisoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
