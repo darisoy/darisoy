@@ -12,9 +12,8 @@ Unfortunately most of my repo's are private. If you'd like to know more, please 
 - Computer Vision
 - Natural Language Processing
 - Statistical Learning/Machine Learning
-- Database Management Systems
 
-## ⚡ Soon to be a Noogler! 
+## ⚡ Software Engineer at [Google Cloud TPU](https://cloud.google.com/tpu)! 
 <!--
 **darisoy/darisoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
