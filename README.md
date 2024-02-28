@@ -14,5 +14,5 @@ If you'd like to know more, please reach out!
 - AI/ML accessibility and safety
 
 ## ⚡ Software Engineer at [Google Cloud TPU](https://cloud.google.com/tpu)! 
-- Responsible for the [Cloud TPU API](https://cloud.google.com/tpu/docs/users-guide-tpu-vm) and billing
+- Responsible for the [Cloud TPU API](https://cloud.google.com/tpu/docs/users-guide-tpu-vm) and GeoExpansion
 - Create PyTorch/XLA examples that run effectively on the [TPU VM](https://cloud.google.com/tpu/docs/system-architecture-tpu-vm#tpu-vm) using the new PjRt runtime
