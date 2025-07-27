@@ -11,7 +11,8 @@
 - Disaster response & recovery
 
 ## ⚡ Software Engineer at [Google Cloud TPU](https://cloud.google.com/tpu)
-- [Cloud TPU API](https://cloud.google.com/tpu/docs/users-guide-tpu-vm) and GeoExpansion lead
+- Cloud TPU NPI: ML model optimization and benchmarking
+- Previously: Cloud TPU API and GeoExpansion lead
 
 ## ⛑️ Volunteer Ops Tech at [ITDRC](https://www.itdrc.org/)
 - Deployments: Hurricane Helene (2024), Lahaina Wildfires (2023), Hurricane Ian (2022)
